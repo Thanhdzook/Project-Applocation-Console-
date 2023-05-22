@@ -1,0 +1,12 @@
+D:\MobilePhoneeee-main\Project\Persistence\bin\Debug\net6.0\Persistence.deps.json
+D:\MobilePhoneeee-main\Project\Persistence\bin\Debug\net6.0\Persistence.dll
+D:\MobilePhoneeee-main\Project\Persistence\bin\Debug\net6.0\Persistence.pdb
+D:\MobilePhoneeee-main\Project\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+D:\MobilePhoneeee-main\Project\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\MobilePhoneeee-main\Project\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+D:\MobilePhoneeee-main\Project\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+D:\MobilePhoneeee-main\Project\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+D:\MobilePhoneeee-main\Project\Persistence\obj\Debug\net6.0\Persistence.dll
+D:\MobilePhoneeee-main\Project\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+D:\MobilePhoneeee-main\Project\Persistence\obj\Debug\net6.0\Persistence.pdb
+D:\MobilePhoneeee-main\Project\Persistence\obj\Debug\net6.0\ref\Persistence.dll

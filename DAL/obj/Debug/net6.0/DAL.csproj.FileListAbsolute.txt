@@ -1,0 +1,15 @@
+D:\MobilePhoneeee-main\Project\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\MobilePhoneeee-main\Project\DAL\bin\Debug\net6.0\DAL.dll
+D:\MobilePhoneeee-main\Project\DAL\bin\Debug\net6.0\DAL.pdb
+D:\MobilePhoneeee-main\Project\DAL\bin\Debug\net6.0\Persistence.dll
+D:\MobilePhoneeee-main\Project\DAL\bin\Debug\net6.0\Persistence.pdb
+D:\MobilePhoneeee-main\Project\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\MobilePhoneeee-main\Project\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\MobilePhoneeee-main\Project\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\MobilePhoneeee-main\Project\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\MobilePhoneeee-main\Project\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\MobilePhoneeee-main\Project\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+D:\MobilePhoneeee-main\Project\DAL\obj\Debug\net6.0\DAL.dll
+D:\MobilePhoneeee-main\Project\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\MobilePhoneeee-main\Project\DAL\obj\Debug\net6.0\DAL.pdb
+D:\MobilePhoneeee-main\Project\DAL\obj\Debug\net6.0\ref\DAL.dll
